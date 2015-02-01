@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "name": "Governamental",
+            "linkname": "governamental",
+            "sites": [
+                {
+                    "name" : "Portal das Finanças",
+                    "domain": "www.portaldasfinancas.gov.pt"
+                }
+            ]
+        },
+        {
+            "name": "ISP",
+            "linkname": "isp",
+            "sites": [
+                {
+                    "name": "Vodafone",
+                    "domain": "www.vodafone.pt",
+                    "twitter": "voadfonept"
+                },
+                {
+                    "name": "meo",
+                    "domain": "www.meo.pt",
+                    "twitter": "meopt"
+                },
+                {
+                    "name": "nos",
+                    "domain": "areadecliente.nos.pt",
+                    "twitter": "meopt"
+                },
+                {
+                    "name": "cabovisão",
+                    "domain": "clientes.cabovisao.pt"
+                }
+            ]
+        }
+    ]
+}
